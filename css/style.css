@@ -1,0 +1,39 @@
+p.text{
+   color: blue;
+}
+
+#Gas-Grills{
+   color: brown;
+}
+
+.header-gr{
+   color: brown;
+}
+
+.header-ll{
+   color: aquamarine;
+}
+
+.color-text{
+   color: rgb(22, 218, 54);
+}
+
+.text.color{
+   color: rgb(17, 195, 14);
+}
+
+.gas h3{
+   color: brown;
+}
+
+.gas > p{
+   color: rgb(239, 9, 223);
+}
+
+.invented + p{
+   color: red;
+}
+
+.bbq li{
+   color: rgb(21, 108, 108);
+}
